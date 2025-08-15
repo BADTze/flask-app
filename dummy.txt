@@ -1,0 +1,17 @@
+[
+  {
+    "month": "01", 
+    "values": {
+      "dieselValue": 79.8863, 
+      "electricity": 8926.9056, 
+      "finishGood": 34921398.171428576, 
+      "indexEnergy": 1.5918813939552487, 
+      "naturalGas": 10449.9615, 
+      "originalDiesel": 2119, 
+      "originalElectric": 2479696, 
+      "originalNaturalGas": 8783.3809, 
+      "productKl": 12222.489360000001
+    }, 
+    "year": "2022"
+  }, 
+]
