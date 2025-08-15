@@ -1,0 +1,15 @@
+dotenv
+flask==2.0.2
+flask-caching
+holidays==0.25
+numpy==1.26.4
+werkzeug==2.0.3
+pandas==2.2.2
+prophet==1.1.6
+# tensorflow==2.16.1
+requests
+scipy==1.10.1
+scikit-learn==1.6.1
+statsmodels==0.13.5
+waitress
+pytest
